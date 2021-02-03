@@ -29,7 +29,7 @@
 
 Portofolio merupakan hal yang berpengaruh penting untuk menunjukkan/mengenalkan diri Anda kepada klien. Kode sumber ini merupakan portofolio atau Curriculum Vitae untuk mengenalkan diri Anda secara profesional.
 
-![Profile Page](images/profile.png)
+![Profile Page](public/images/profile.png)
 
 ## Tema
 
@@ -49,14 +49,14 @@ Anda dapat memilih tema yang sesuai dengan selera dan karakter diri Anda. Setela
 
 Portofolio/Resume Curriculum Vitae yang Anda buat dapat dipublikasikan dan diakses dengan browser secara gratis/bebas sehingga klien dapat dengan mengetahui profil profesional Anda. Anda dapat melakukan dengan cara [sebagai berikut](https://pages.github.com/):
 1. Buat repositori penyimpanan kode Anda
-![github1](github/github_1.png)
+![github1](public/github/github_1.png)
 2. Kloning dan simpan repositori anda pada lokal komputer
-![github1](github/github_2.png)
+![github1](public/github/github_2.png)
 3. Salin hasil profil yang telah diunduh pada [Pilih Tema](#tema) kemudian edit dan isikan profil Anda 
 4. Dorong/push kode portofolio Anda ke repositori penyimpanan github 
-![github1](github/github_4.png)
+![github1](public/github/github_4.png)
 5. Buka browser dan akses alamat akun https://*akun*.github.io 
-![github1](github/github_5.png)
+![github1](public/github/github_5.png)
 
 ## Dukungan
 
