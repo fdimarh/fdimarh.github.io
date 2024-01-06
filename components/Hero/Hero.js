@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import Typed from "typed.js";
 import { gsap, Linear } from "gsap";
-import { MENULINKS, TYPED_STRINGS } from "../../constants";
+import { MENULINKS, TYPED_STRINGS, METADATA } from "../../constants";
 import styles from "./Hero.module.scss";
 import Button from "../Button/Button";
 import Profiles from "../Profiles/Profiles";
@@ -87,8 +87,7 @@ const Hero = () => {
           Hi, my name is
         </h5>
         <h1 className={`${styles.heroName} text-white text-6xl font-semibold`}>
-          <span className={`relative ${styles.emphasize} seq`}>Shubh</span>
-          <span className="seq"> Porwal</span>
+          <span className={`relative ${styles.emphasize} seq`}>{METADATA.author}</span>
         </h1>
         <p>
           <span

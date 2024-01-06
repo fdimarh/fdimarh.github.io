@@ -1,20 +1,17 @@
 export const METADATA = {
-  author: "Shubh Porwal",
-  title: "Portfolio | Shubh Porwal",
+  author: "Fajar Dimar Habibi",
+  title: "Portfolio | Fajar Dimar Habibi",
   description:
-    "Shubh Porwal is a Frontend Developer from Kuwait, interested in crafting beautiful and functional applications.",
-  siteUrl: "https://www.shubhporwal.me/",
+    "Fajar Dimar Habibi is a Software Engineer from Jakarta Indonesia, interested in problem solving and crafting functional software applications.",
+  siteUrl: "https://fdimarh.ngecamp.co.id",
   twitterHandle: "@shubh731",
   keywords: [
-    "Shubh Porwal",
-    "Frontend Developer",
-    "Web Developer",
-    "React Native Developer",
-    "Software Developer",
     "Software Engineer",
+    "Mobile Engineer",
+    "Backend Engineer",
+    "Data Science",
+    "Entrepreneur",
     "Portfolio",
-    "Devfolio",
-    "Folio",
   ].join(", "),
   image:
     "https://res.cloudinary.com/dywdhyojt/image/upload/v1690572126/preview.png",
@@ -45,31 +42,23 @@ export const MENULINKS = [
 ];
 
 export const TYPED_STRINGS = [
-  "A pragmatic Frontend Developer",
-  "I build things for the web",
-  "I create aesthetic and modern apps",
+  "A pragmatic Software Engineer",
+  "I build things for solving problems",
+  "I create with heart and passion",
 ];
 
 export const SOCIAL_LINKS = [
   {
     name: "mail",
-    url: "mailto: shubhporwal73@gmail.com",
+    url: "mailto: fajar.dimar@ngecamp.co.id",
   },
   {
     name: "linkedin",
-    url: "https://www.linkedin.com/in/shubhporwal/",
+    url: "https://www.linkedin.com/in/fdimarh/",
   },
   {
     name: "github",
-    url: "https://github.com/shubh73",
-  },
-  {
-    name: "instagram",
-    url: "https://www.instagram.com/shubhii73/",
-  },
-  {
-    name: "twitter",
-    url: "https://twitter.com/shubh731",
+    url: "https://github.com/fdimarh",
   },
 ];
 
@@ -80,9 +69,9 @@ export const SKILLS = {
     "javascript",
     "typescript",
     "sass",
-    // "cpp",
-    // "java",
-    // "python",
+    // "rust",
+    "java",
+    "python",
     "nodejs",
     "webpack",
     "vite",
