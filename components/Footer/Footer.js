@@ -59,13 +59,13 @@ const Footer = () => {
               </Button>
             </div>
             <p className="text-center text-white text-sm sm:text-base font-medium tracking-wide mt-8">
-              Developed with{" "}
+              Credit {" "}
               <button onClick={handleClick} className="link heart-btn">
                 <span role="img" aria-label="heart" className="animate-pulse">
                   ❤️
                 </span>
               </button>{" "}
-              by <span className="text-white">Shubh Porwal</span>
+              for <span className="text-white">Shubh Porwal</span>
             </p>
           </div>
         </div>
@@ -79,7 +79,7 @@ const Footer = () => {
       />
       <style jsx global>{`
         footer {
-          background-image: linear-gradient(270deg, #9f55ff, #7000ff, #8b31ff);
+          background-image: linear-gradient(270deg, #5895b0, #437185, #5895b0);
         }
       `}</style>
     </footer>
