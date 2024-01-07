@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @import "../public/fonts/Calibre/Calibre";
-@import "../public//fonts//JetBrainsMono/JetBrainsMono";
+@import "../public/fonts/JetBrainsMono/JetBrainsMono";
 
 *,
 *::after,
@@ -54,15 +54,14 @@ html {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: rgba(112, 0, 255, 0.75);
+  background: rgba(67, 113, 133, 1);
   opacity: 0.5;
   border-radius: 1rem;
   transition: all 0.2s;
 }
 
-::-webkit-scrollbar-thumb:hover {
-  background: theme("colors.indigo.dark");
-  opacity: 1;
+::-webkit-sollbar-thumb:hover {background: theme("colors.indigo.dark");
+  opacity: 1
 }
 
 ::-moz-selection {
@@ -261,8 +260,8 @@ input[type="checkbox"] {
               90deg,
               #ffffff 0%,
               #ffffff 50%,
-              #8b31ff 51%,
-              #7000ff 100%
+              #5895b0 51%,
+              #437185 100%
             );
             background-size: 200% 100%;
             background-clip: text;
@@ -371,7 +370,7 @@ $bg: #f4faff;
               position: absolute;
               width: 16px;
               height: 16px;
-              outline: 3px solid #7000ff;
+              outline: 3px solid #5895b0;
               border-radius: 50%;
               left: 0;
               top: 20%;
