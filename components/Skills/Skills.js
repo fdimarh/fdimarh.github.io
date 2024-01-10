@@ -54,10 +54,10 @@ const Skills = () => {
           </div>
           <div className="mt-10">
             <h3 className="uppercase tracking-widest text-gray-light-2 font-medium text-base mb-4 seq">
-              LANGUAGES AND TOOLS
+              LANGUAGES AND FRAMEWORKS
             </h3>
             <div className="flex flex-wrap gap-6 transform-gpu seq">
-              {SKILLS.languagesAndTools.map((skill) => (
+              {SKILLS.languagesAndFrameworks.map((skill) => (
                 <Image
                   key={skill}
                   src={`/skills/${skill}.svg`}
@@ -70,10 +70,10 @@ const Skills = () => {
           </div>
           <div className="mt-10">
             <h3 className="uppercase tracking-widest text-gray-light-2 font-medium text-base mb-4 seq">
-              LIBRARIES AND FRAMEWORKS
+              TOOLS
             </h3>
             <div className="flex flex-wrap gap-6 transform-gpu seq">
-              {SKILLS.librariesAndFrameworks.map((skill) => (
+              {SKILLS.tools.map((skill) => (
                 <Image
                   key={skill}
                   src={`/skills/${skill}.svg`}
@@ -103,10 +103,10 @@ const Skills = () => {
             </div>
             <div>
               <h3 className="uppercase tracking-widest text-gray-light-2 font-medium text-base mb-4 seq">
-                Other
+                INFRASTRUCTURE
               </h3>
               <div className="flex flex-wrap gap-6 transform-gpu seq">
-                {SKILLS.other.map((skill) => (
+                {SKILLS.infrastructure.map((skill) => (
                   <Image
                     key={skill}
                     src={`/skills/${skill}.svg`}
