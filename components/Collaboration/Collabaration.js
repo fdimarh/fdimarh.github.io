@@ -58,7 +58,7 @@ const Collaboration = ({ clientHeight }) => {
         <p className="opacity-40 text-6xl sm:text-7xl font-semibold whitespace-nowrap ui-left transform-gpu">
           {Array(5)
             .fill(
-              " Software Engineering Problem Solving Software Architecture "
+              " Software Engineering Problem Solving Software Architecture Scalable Solutions Less Effort More Impact"
             )
             .reduce((str, el) => str.concat(el), "")}{" "}
         </p>
@@ -74,7 +74,7 @@ const Collaboration = ({ clientHeight }) => {
         <p className="mt-6 md:mt-8 opacity-40 text-6xl sm:text-7xl font-semibold whitespace-nowrap ui-right transform-gpu">
           {Array(5)
             .fill(
-              " Agile Development Frontend Development React Native Development "
+              " Agile Development Frontend Development Backend Development Multiplatform Development"
             )
             .reduce((str, el) => str.concat(el), "")}{" "}
         </p>

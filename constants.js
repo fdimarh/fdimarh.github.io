@@ -177,46 +177,25 @@ export const PROJECTS = [
 export const WORK = [
     {
         id: 1,
-        company: "Dukaan",
-        title: "Frontend Developer",
-        location: "Bangalore, Karnataka",
-        range: "December - Current",
+        company: "BSrE, BSSN",
+        title: "Software Engineer",
+        location: "Jakarta, Indonesia",
+        range: "September 2017 - Current",
         responsibilities: [
-            "Led creation of a captivating cross-platform e-commerce solution.",
-            "Enhanced UX with gamification and personalized push notifications ensuring an ever-improving shopping journey.",
-            "The app boasts a DAU base of 13k and an extensive MAU count of 170k.",
+            "Develop and maintain a robust electronic signature system to ensure seamless accessibility and functionality",
+            "Implement security protocols to safeguard electronic signatures, guaranteeing their integrity and confidentiality",
+            "Collaborate with cross-functional teams to integrate electronic signature features into various software applications",
+            "Conduct regular audits and testing to identify and address potential vulnerabilities in the electronic signature infrastructure",
+            "Stay updated on industry standards and regulations related to electronic signatures, ensuring compliance in all aspects of the system",
+            "Troubleshoot and resolve any issues related to electronic signature availability promptly, minimizing downtime",
+            "Optimize and streamline electronic signature processes for efficiency and user-friendly experiences",
+            "Provide technical support and training to users, ensuring they can effectively utilize electronic signature functionalities",
+            "Collaborate with legal and compliance teams to ensure the software aligns with relevant laws and regulations governing electronic signatures",
+            "Continuously monitor and assess the performance of the electronic signature system, implementing improvements as needed to enhance reliability and availability"
         ],
-        url: "https://mydukaan.io/",
-        video: "/work/dukaan.mp4",
-    },
-    {
-        id: 2,
-        company: "Aviate",
-        title: "Frontend Developer Intern",
-        location: "Goa",
-        range: "May - October 2022",
-        responsibilities: [
-            "Built their flagship product Q-Rate, a voice-based applicant screening platform.",
-            "Developed pixel-perfect responsive web applications achieving daily traffic of 1000-2000 users.",
-            "Successfully rolled out an error-logging and bug reporting system that cut user-reported bugs by 30%.",
-        ],
-        url: "https://www.aviate.jobs/",
-        video: "/work/aviate.mp4",
-    },
-    {
-        id: 3,
-        company: "Spacenos",
-        title: "Web Developer Intern",
-        location: "Bangalore, Karnataka",
-        range: "September - December 2021",
-        responsibilities: [
-            "Led the Full Stack revamp on the Admin Portal.",
-            "Developed app integration with REST APIs, Google Maps, User Auth, Stripe and other libraries.",
-            "Implemented CRUD features for all the services and providers.",
-        ],
-        url: "https://spacenos.com/",
+        url: "https://bsre.bssn.go.id",
         video: "/work/spacenos.mp4",
-    },
+    }
 ];
 
 export const GTAG = "G-5HCTL2TJ5W";
