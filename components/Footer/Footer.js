@@ -59,13 +59,7 @@ const Footer = () => {
               </Button>
             </div>
             <p className="text-center text-white text-sm sm:text-base font-medium tracking-wide mt-8">
-              Credit {" "}
-              <button onClick={handleClick} className="link heart-btn">
-                <span role="img" aria-label="heart" className="animate-pulse">
-                  ❤️
-                </span>
-              </button>{" "}
-              for <span className="text-white">Shubh Porwal</span>
+              Credit for <span className="text-white">Shubh Porwal</span>
             </p>
           </div>
         </div>

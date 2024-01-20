@@ -177,7 +177,7 @@ export const PROJECTS = [
 export const WORK = [
     {
         id: 1,
-        company: "BSrE, BSSN",
+        company: "Government",
         title: "Software Engineer",
         location: "Jakarta, Indonesia",
         range: "September 2017 - Current",
