@@ -88,7 +88,7 @@ export const SKILLS = {
         "material-ui",
         "arduino",
         "cplusplus",
-        "golang",
+        "go",
     ],
     tools: [
         "figma",
