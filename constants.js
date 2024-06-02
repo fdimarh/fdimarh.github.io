@@ -121,6 +121,7 @@ export const SKILLS = {
         "heroku",
         "digitalocean",
         "aws",
+        "vercel",
     ],
 };
 
