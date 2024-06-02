@@ -4,7 +4,6 @@ export const METADATA = {
     description:
         "Fajar Dimar Habibi is a Software Engineer from Jakarta Indonesia, interested in problem solving and crafting functional software applications.",
     siteUrl: "https://fdimarh.ngecamp.co.id",
-    twitterHandle: "@shubh731",
     keywords: [
         "Software Engineer",
         "Mobile Engineer",
@@ -14,7 +13,7 @@ export const METADATA = {
         "Portfolio",
     ].join(", "),
     image:
-        "https://res.cloudinary.com/dywdhyojt/image/upload/v1690572126/preview.png",
+        "https://avatars2.githubusercontent.com/u/16381419",
     language: "English",
 };
 
